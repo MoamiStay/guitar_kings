@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "Boots and Spurs";
+  src: url("../fonts/BootsAndSpurs.ttf") format("truetype");
+}
+
+body {
+  font-family: "Roboto";
+}
+
+h1,
+h2,
+.logo {
+  font-family: "Boots and Spurs", sans-serif, Tahoma, Geneva, Verdana;
+}
+
 header,
 footer {
   background: #202020;
